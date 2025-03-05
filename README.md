@@ -1,7 +1,7 @@
 ## Hi 👋, I'm **Aditya Rajendra Kokate**  
 ### 🚀 A Passionate Full Stack Web Developer  
 
-📚 Currently pursuing **Web Development, Python, JavaScript, React, Generative AI, and Cloud Computing** at **NxtWave's CCBP 4.0 Academy**  
+I am a passionate **Web Developer** and tech enthusiast with a strong foundation in **Full-Stack Development, Cloud Computing, and Artificial Intelligence**. Currently, I am pursuing my studies at **Saraswati College of Engineering, Kharghar, Navi Mumbai**, where I actively contribute to technical events and student communities.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ADITYAKOKATE&label=Profile%20views&color=0e75b6&style=flat" alt="adityakokate" /> </p>
 
