@@ -101,7 +101,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityakokate/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditya.kokate47@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ADITYAKOKATE)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]((https://www.youtube.com/@the_aditya_kokate))
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@the_aditya_kokate)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/the_aditya_kokate/?hl=en)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/aditya.kokate.1027)
 
@@ -116,7 +116,7 @@
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ADITYAKOKATE&theme=tokyonight)](https://github.com/ADITYAKOKATE)
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ADITYAKOKATE&theme=tokyonight)](https://github.com/ADITYAKOKATE)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ADITYAKOKATE&theme=tokyonight)](https://www.youtube.com/@the_aditya_kokate)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ADITYAKOKATE&theme=tokyonight)](https://github.com/ADITYAKOKATE)
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ADITYAKOKATE&theme=tokyonight)](https://github.com/ADITYAKOKATE)
 [![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ADITYAKOKATE&theme=tokyonight&utcOffset=5.5)](https://github.com/ADITYAKOKATE)
