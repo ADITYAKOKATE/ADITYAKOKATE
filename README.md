@@ -68,17 +68,6 @@
 
 ---
 
-## 📊 Detailed Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ADITYAKOKATE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1&text_color=ffffff&hide=contribs&show=reviews,discussions_started,prs_merged,prs_merged_percentage" alt="Extra Stats" />
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=ADITYAKOKATE&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=ffffff&layout=compact" alt="WakaTime Stats" />
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
