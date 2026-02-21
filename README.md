@@ -55,14 +55,14 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ADITYAKOKATE&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1&text_color=ffffff&cache_seconds=1800" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADITYAKOKATE&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=ffffff&cache_seconds=1800&langs_count=8" alt="Top Languages" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ADITYAKOKATE&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1&text_color=ffffff" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ADITYAKOKATE&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=ffffff&langs_count=8" alt="Top Languages" />
 
 </div>
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ADITYAKOKATE&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366f1&ring=6366f1&fire=f59e0b&currStreakLabel=6366f1" alt="GitHub Streak" />
+<img width="70%" src="https://streak-stats.demolab.com/?user=ADITYAKOKATE&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366f1&ring=6366f1&fire=f59e0b&currStreakLabel=6366f1" alt="GitHub Streak" />
 
 </div>
 
@@ -72,7 +72,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ADITYAKOKATE&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=ADITYAKOKATE&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
