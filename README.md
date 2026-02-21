@@ -1,63 +1,145 @@
-## Hi 👋, I'm **Aditya Rajendra Kokate**  
-### 🚀 A Passionate Full Stack Web Developer  
+<div align="center">
 
-I am a passionate **Web Developer** and tech enthusiast with a strong foundation in **Full-Stack Development, Cloud Computing, and Artificial Intelligence**. Currently, I am pursuing my studies at **Saraswati College of Engineering, Kharghar, Navi Mumbai**, where I actively contribute to technical events and student communities.
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aditya%20Kokate&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Cloud%20Explorer&descAlignY=55&descSize=18" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ADITYAKOKATE&label=Profile%20views&color=0e75b6&style=flat" alt="adityakokate" /> </p>
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Aditya+Kokate+👋;Full+Stack+Web+Developer+🚀;AI+%26+Cloud+Enthusiast+☁️;Building+the+Future%2C+One+Commit+at+a+Time+💡" alt="Typing SVG" />
+</a>
 
----
-
-### 🌟 About Me:
-- 🔧 **Currently Working On:** Exam Central, VirtuLearn, and AI-Based Demand Forecasting  
-- 🌱 **Learning:** Advanced Web Development, Cloud Computing, and AI Integration  
-- 💬 **Ask Me About:** Full Stack Web Development, React, Node.js, and Cloud Computing  
-- 📧 **Reach Me At:** [aditya.kokate47@gmail.com](mailto:aditya.kokate47@gmail.com)  
-- 👨‍💻 **Explore My Projects:** [GitHub Profile](https://github.com/ADITYAKOKATE)  
-
----
-
-## 🌐 **Connect With Me:**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityakokate/) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/aditya.kokate.1027) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/the_aditya_kokate/?hl=en) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@adityakokate4178)  
-
----
-
-## 💻 **Tech Stack**  
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
----
-
-## 📊 **GitHub Stats**  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ADITYAKOKATE&show_icons=true&locale=en" alt="adityakokate" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ADITYAKOKATE&" alt="adityakokate" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ADITYAKOKATE&show_icons=true&locale=en&layout=compact" alt="adityakokate" />
+<!-- Profile Views & Followers -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=ADITYAKOKATE&label=Profile%20Views&color=6366f1&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/ADITYAKOKATE?label=Followers&style=flat-square&color=6366f1" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%2B%20AI-6366f1?style=flat-square" alt="Focus" />
 </p>
 
+</div>
+
 ---
 
-### 🚀 **GitHub Profile Trophy**
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ADITYAKOKATE" alt="adityakokate" />
-  </a>
-</p>
+## 🌟 About Me
+
+<div align="center">
+
+![Name](https://img.shields.io/badge/👤%20Aditya%20Rajendra%20Kokate-informational?style=flat-square&color=6366f1)
+![Education](https://img.shields.io/badge/🎓%20Saraswati%20College%20of%20Engineering-informational?style=flat-square&color=0f172a)
+![Location](https://img.shields.io/badge/📍%20Navi%20Mumbai%2C%20India-informational?style=flat-square&color=0f172a)
+![Role](https://img.shields.io/badge/💼%20Full%20Stack%20Dev%20·%20AI%20·%20Cloud-informational?style=flat-square&color=0f172a)
+
+</div>
+
+<br/>
+
+- 🔭 **Currently Building:** MockUp AI · RealityCheck AI · Exam Section
+- 🌱 **Currently Learning:** Advanced Web Dev · Cloud Computing (AWS) · AI/ML Integration
+- 💬 **Ask Me About:** React · Node.js · MongoDB · REST APIs · System Design
+- 📧 **Reach Me:** [aditya.kokate47@gmail.com](mailto:aditya.kokate47@gmail.com)
+- 👨‍💻 **Portfolio:** [github.com/ADITYAKOKATE](https://github.com/ADITYAKOKATE)
+- ⚡ **Fun Fact:** I turn coffee ☕ into clean, working code — one commit at a time 🚀
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,nodejs,express,fastapi,python,mongodb,mysql,pytorch,opencv,aws,git,github&perline=9" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ADITYAKOKATE&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=ffffff" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADITYAKOKATE&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=ffffff" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ADITYAKOKATE&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366f1&ring=6366f1&fire=f59e0b&currStreakLabel=6366f1" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ADITYAKOKATE&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ADITYAKOKATE&bg_color=0d1117&color=6366f1&line=6366f1&point=f59e0b&area=true&hide_border=true)
+
+</div>
+
+---
+
+## 🐍 Snake Eating My Contributions
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ADITYAKOKATE/ADITYAKOKATE/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ADITYAKOKATE/ADITYAKOKATE/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/ADITYAKOKATE/ADITYAKOKATE/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+> ⚙️ _To enable the snake, add the [GitHub Action](https://github.com/Platane/snk) to your profile repo._
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityakokate/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditya.kokate47@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ADITYAKOKATE)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@adityakokate4178)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/the_aditya_kokate/?hl=en)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/aditya.kokate.1027)
+
+</div>
+
+---
+
+## 📅 Profile Summary Cards
+
+<div align="center">
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ADITYAKOKATE&theme=tokyonight)](https://github.com/ADITYAKOKATE)
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ADITYAKOKATE&theme=tokyonight)](https://github.com/ADITYAKOKATE)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ADITYAKOKATE&theme=tokyonight)](https://github.com/ADITYAKOKATE)
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ADITYAKOKATE&theme=tokyonight)](https://github.com/ADITYAKOKATE)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ADITYAKOKATE&theme=tokyonight&utcOffset=5.5)](https://github.com/ADITYAKOKATE)
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+
+<sub>⭐ If you find my projects interesting, consider giving them a star! It motivates me to build more awesome stuff. 🚀</sub>
+
+</div>
