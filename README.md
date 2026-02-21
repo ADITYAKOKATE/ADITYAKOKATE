@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Aditya+Kokate+👋;Full+Stack+Web+Developer+🚀;AI+%26+Cloud+Enthusiast+☁️;Building+the+Future%2C+One+Commit+at+a+Time+💡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&multiline=false&width=600&lines=Hey+there!+I'm+Aditya+Kokate;Full+Stack+Web+Developer;AI+%26+Cloud+Enthusiast;Building+the+Future+One+Commit+at+a+Time" alt="Typing SVG" />
 </a>
 
 <!-- Profile Views & Followers -->
@@ -55,8 +55,8 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ADITYAKOKATE&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=ffffff" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADITYAKOKATE&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=ffffff" alt="Top Languages" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ADITYAKOKATE&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1&text_color=ffffff&cache_seconds=1800" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADITYAKOKATE&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=ffffff&cache_seconds=1800&langs_count=8" alt="Top Languages" />
 
 </div>
 
@@ -72,7 +72,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ADITYAKOKATE&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=ADITYAKOKATE&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
 
 </div>
 
